@@ -15,6 +15,7 @@ I am fascinated by the modern technology like AI (Imagine a program can do a wor
   <a href="https://stackoverflow.com/users/17651034" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="17651034" height="30" width="40" /></a>
 
 </p>
+  <img align = "right" alt = "coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 
   
 
@@ -53,6 +54,8 @@ Here are some ideas to get you started:
   </a>
 
   <br>
+  
+
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
@@ -87,4 +90,7 @@ Here are some ideas to get you started:
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
+    
+    
+
 
