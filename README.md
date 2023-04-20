@@ -90,7 +90,32 @@ Here are some ideas to get you started:
 <a href="https://numpy.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/>
 </a>
+<br>
     
-    
+<BR CLEAR=RIGHT|LEFT />    
 
 
+    
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayureshd-18&" alt="Mayureshd-18" /></p>
+<BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayureshd-18&show_icons=true&locale=en&layout=compact" alt="Mayureshd-18" /></p>
+        <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+    <BR CLEAR=RIGHT/>
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mayureshd-18&show_icons=true&locale=en" alt="Mayureshd-18" /></p>
+   
+    
