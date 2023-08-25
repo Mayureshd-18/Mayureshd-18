@@ -2,7 +2,7 @@
 I am a IT undergrad at Vishwakarma Institute of technology. I am an passionate Python developer and an Machine learning enthusiast.<br>
 I am fascinated by the modern technology like AI (Imagine a program can do a work we never thought of) It sends a chill down my spine as well as creates excitement. I always look to learn these new technologies and I believe in not doing the same thing again that has been developed or created. Always create something new!
 
-![](https://komarev.com/ghpvc/?username=your-github-username&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=Mayureshd-18&label=PROFILE+VIEWS)
 
 <h3 align="left">Feel free to connect with me:</h3>
 <p align="left">
