@@ -81,7 +81,7 @@ I am fascinated by the modern technology like AI (Imagine a program can do a wor
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Mayureshd-18&" alt="Mayureshd-18" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mayureshd-18&show_icons=true&locale=en&layout=compact" alt="Mayureshd-18" /></p>
 <br>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mayureshd-18&show_icons=true&locale=en" alt="Mayureshd-18" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Mayureshd-18&show_icons=true&locale=en" alt="Mayureshd-18" /></p> -->
 
 
 [![An image of @mayureshd18's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayureshd18)](https://holopin.io/@mayureshd18)
