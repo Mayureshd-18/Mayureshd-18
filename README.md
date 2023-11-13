@@ -14,6 +14,7 @@ I am fascinated by the modern technology like AI (Imagine a program can do a wor
 <a href="https://linkedin.com/in/mayuresh-dharwadkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mayuresh-dharwadkar" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/Mayu_D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mayu_d" height="30" width="40" /></a>
+  <a href="https://www.codingninjas.com/studio/profile/MayuD" target="blank"><img align="center" src="https://github.com/Mayureshd-18/github-profile-readme-generator/blob/master/src/images/icons/Social/codingninjas.svg" alt="@mayu_d" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/mayuresh_d" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mayuresh_d" height="30" width="40" /></a>
   
   
