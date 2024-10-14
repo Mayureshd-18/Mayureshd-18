@@ -1,7 +1,7 @@
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayuresh Dharwadkar!
-I am working as a Software development intern at [Infineon Technologies](https://www.infineon.com) in Banglore. Pro in Python, Django, Js, Ts...(and I’ll figure out the rest creatively). I like exploring new places, going on trips and.....roam around :)<br>
+I am working as a Software development intern in Banglore. Pro in Python, Django, Js, Ts...(and I’ll figure out the rest creatively). I like exploring new places, going on trips and.....roam around :)<br>
 You can reach to to me for **anything**. (Ya when I say anything, I mean anything).
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
