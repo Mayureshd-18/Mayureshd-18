@@ -1,8 +1,7 @@
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Mayuresh Dharwadkar!
-I am a IT undergrad at Vishwakarma Institute of technology. I am an passionate Python developer and an Machine learning enthusiast.<br>
-I am fascinated by the modern technology like AI (Imagine a program can do a work we never thought of) It sends a chill down my spine as well as creates excitement. I always look to learn these new technologies and I believe in not doing the same thing again that has been developed or created. Always create something new!
+I am working as a Software development intern at [Infineon Technologies](https://www.infineon.com) in Banglore. I am a machine Learning enthusiast and an open-source geek.
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 
 ![](https://komarev.com/ghpvc/?username=Mayureshd-18&label=PROFILE+VIEWS)
